@@ -39,6 +39,46 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "hhoh",
+      "restaurant": "bkkb",
+      "image": "nkn",
+      "rating": 4,
+      "comment": "good",
+      "id": 6
+    },
+    {
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": null,
+      "comment": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": null,
+      "comment": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": null,
+      "comment": "",
+      "id": 9
+    },
+    {
+      "name": "hashi",
+      "restaurant": "kami",
+      "image": "https://c8.alamy.com/comp/KMP5AD/ceramic-bowl-of-japanese-udon-noodles-with-chopsticks-KMP5AD.jpg",
+      "rating": 6,
+      "comment": "great",
+      "id": 10
     }
   ]
 }
